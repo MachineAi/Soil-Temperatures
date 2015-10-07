@@ -4,7 +4,7 @@
 
 A teaching applet to illustrate the analytical solution to the general equation of heat conduction for a sinusoidal forcing at the surface using Lab View.
 
-## Sourcecode description
+## Description
 
 The labview VI "soilwave.vi" is the main user interface. The user can select the amplitude of the surface temperature wave, change thermal diffusivity of the soil and then explore how the wave decays and shifts with depth in the soil. The graphs show:
 
