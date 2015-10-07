@@ -9,5 +9,3 @@ The labview VI "soilwave.vi" is the main user interface. The user can select the
 3. the 2D field of temperatures over time and depth.
 
 The labview VI "soilwave_sinusodial.vi" is a sub-VI called in "soilwave.vi" calculates the equation for one depth and one time step. Inputs are the mean (daily, annual) average soil temperature (ºC), the amplitude of the surface temperature wave, the thermal diffusivity, the period of the oscillation, and the desired time and depth.
-
-
