@@ -1,6 +1,10 @@
 # Soil-Temperatures
 
+## Purpose
+
 A teaching applet to illustrate the analytical solution to the general equation of heat conduction for a sinusoidal forcing at the surface using Lab View.
+
+## Sourcecode description
 
 The labview VI "soilwave.vi" is the main user interface. The user can select the amplitude of the surface temperature wave, change thermal diffusivity of the soil and then explore how the wave decays and shifts with depth in the soil. The graphs show:
 
@@ -12,3 +16,7 @@ The labview VI "soilwave_sinusodial.vi" is a sub-VI called in "soilwave.vi" calc
 
 A web implementation of this applet for teaching can be found here:
 http://ibis.geog.ubc.ca/courses/geob300/applets/stwave/index.html
+
+## Source / License
+
+This code has been written by Andreas Christen, Associate Professor, the University of British Columbia, Vancouver, Canada and is published for free use and modification under the GNU GPL V 2.0.
